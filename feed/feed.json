@@ -1,0 +1,18 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Programing languages",
+    "home_page_url": "https://a23danielgs.github.io/Proyect-rss--JSON-/",
+    "feed_url": "https://a23danielgs.github.io/Proyect-rss--JSON-//feed/feed.json",
+    "items": [
+        {
+            "id": "2",
+            "content_text": "This is Python.",
+            "url": "https://a23danielgs.github.io/Proyect-rss--JSON-/python.html"
+        },
+        {
+            "id": "1",
+            "content_html": "<p>Hello, Java!</p>",
+            "url": "https://a23danielgs.github.io/Proyect-rss--JSON-/java.html"
+        }
+    ]
+   }
